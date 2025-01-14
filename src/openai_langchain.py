@@ -7,7 +7,7 @@ load_dotenv()
 
 chatgpt = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
-PROMPT = "Explain {topic} in two minutes."
+PROMPT = "Explain {topic} in 50 words."
 
 prompt = ChatPromptTemplate.from_template(PROMPT)
 
