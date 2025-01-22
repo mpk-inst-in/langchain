@@ -9,5 +9,12 @@ accelerate==0.34.2
 groq==0.11.0
 langchain-huggingface
 langchain-groq
- httpx==0.27.2 
+httpx==0.27.2
+grandalf
+langchain-chroma
+rich
+gdown
+tabulate
+
 #  --force-reinstall --quiet
+# pip install --upgrade langchain langchain-community langchain-core
