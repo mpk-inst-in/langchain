@@ -15,6 +15,6 @@ langchain-chroma
 rich
 gdown
 tabulate
-
+duckduckgo-search==6.3.5
 #  --force-reinstall --quiet
 # pip install --upgrade langchain langchain-community langchain-core
